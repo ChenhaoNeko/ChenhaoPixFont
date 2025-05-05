@@ -30,4 +30,4 @@
 * **Minseo Lee** 等开源原版日（韩）文字体；
 * **Bits N' Picas** 提供制作工具；
 * **Galmuri、Cubic 11、[秋空黑体MN](https://github.com/ChiuMing-Neko/ChiuKongGothic)** 等字体提供参考字形；
-* **[Hansha2011](https://github.com/Hansha2011)、[scott0107000](https://github.com/scott0107000)** 等小伙伴为本项目提供支持。
+* **[Hansha2011](https://github.com/Hansha2011)、[scott0107000](https://github.com/scott0107000)、[diaowinner](https://github.com/diaowinner)** 等小伙伴为本项目提供支持。
